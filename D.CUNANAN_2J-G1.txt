@@ -1,0 +1,33 @@
+baka gamitin
+
+-grid container
+-flex
+ala muna navigation yung home about tsaka shits
+ala hamburger, tsaka na
+hanggang dental care
+css from scratch
+
+color background 
+fcc32
+
+padding- pag adjust space 
+margin - pag bigay space
+justify-item para sa grid para alam mo na
+
+position dapat naka set sa relative para maka adjust left,right, top down etc
+
+Lorem Ipsum available but the majority have suffered alteration in some form, by injected humour randomised words
+
+
+Container white: 
+
+
+button(first page) contact us: #00beca  
+
+references use
+
+https://www.w3schools.com/css/css3_buttons.asp
+https://www.w3schools.com/css/tryit.asp?filename=trycss_padding_sides
+
+
+hirap pag di mo alam meaning nung mga salita
